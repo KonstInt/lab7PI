@@ -12,7 +12,7 @@ def main():
     print("Введите значение n для проверки (целое число):")
 
     try:
-        n = int(input())
+        n = 5
         if is_prime(n):
             print(f"{n} - простое число.")
         else:

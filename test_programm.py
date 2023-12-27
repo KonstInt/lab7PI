@@ -8,4 +8,4 @@ def test_two():
    assert is_prime(6) == False
 
 def test_three():
-   assert is_prime(1) == True
+   assert is_prime(7) == True
